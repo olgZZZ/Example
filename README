@@ -1,1 +1,3 @@
-Hello World! )
+Planet.class - Example Enum class.
+               Planet has methods for calculation of gravitation and object
+               weight on each planet.
