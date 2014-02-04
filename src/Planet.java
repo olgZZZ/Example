@@ -29,7 +29,7 @@ public enum Planet {
     }
     public static void main(String[] args){
         if (args.length != 1) {
-            System.err.print("Usage: java Planet &lt;earth_weight&gt;");
+            System.err.print("Usage: java Planet <earth_weight>");
             System.exit(-1);
         }
         double earthWeight = Double.parseDouble(args[0]);
