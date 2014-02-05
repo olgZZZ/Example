@@ -2,6 +2,8 @@ Planet.class                - Example Enum class.
                               Planet has methods for calculation of gravitation and object
                               weight on each planet.
 
+StringExample
+
 DemoIntern                  - Применение intern()
 DemoString                  - Использование методов
 DemoStringBuffer            - Свойства объекта StringBuffer
@@ -15,6 +17,16 @@ RefString                   - Передача строки по ссылке
 RefStringBuffer             - Изменение объекта StringBuffer
 SimpleFormatString          - Форматирование текста по формату %S, %c
 SortArray                   - Сортировка
+
+SortExample
+
+SortSelection               - Sorting an array of random numbers "Selection method"
+SortBubble                  - Sorting  of "Bubble method"
+
+
+
+
+
 
 
 В таблице приведены некоторые из спецификаторов формата времени и даты.
